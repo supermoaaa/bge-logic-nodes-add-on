@@ -1,4 +1,5 @@
 --- TODO ---
+add support for news events system
 add distance condition, with hysteresis
 remove status check
 check action started/finished behavior for LOOP and PING PONG
